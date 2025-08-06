@@ -21,3 +21,4 @@ Install Python, Which can be done here: https://www.python.org/downloads/
 <br />
 Install the pynput library, which can be done with the command "pip install pynput"
 <br />
+Then simply run the command in the terminal
